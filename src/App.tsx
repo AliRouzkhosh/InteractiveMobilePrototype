@@ -60,7 +60,7 @@ const products: Product[] = [
   },
 ]
 
-function Header({ title, back }: { title: string back?: () => void }) {
+function Header({ title, back }: { title: string; back?: () => void }) {
   return (
     <header className="app-header" dir="rtl">
       <div className="search-shell">
