@@ -1,0 +1,10 @@
+{
+  "description": "This interactive mobile prototype helps users find compatible vehicle products by year and gearbox, displaying nearby sellers and detailed product information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
